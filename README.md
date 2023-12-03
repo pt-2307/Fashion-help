@@ -1,1 +1,1 @@
-# A fashion recommender system 
+# VAstraChayan: A fashion recommender system 
